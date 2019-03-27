@@ -48,3 +48,29 @@ nav{
 .menu a:hover{
     color:#0a2b42;
 }
+.subject{
+    display: inline-block;
+    width: 400px;
+    
+}
+.img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.subject a{
+    opacity: 0.9; 
+}
+.subject a:hover{
+    opacity: 1;
+}
+figure{
+    margin: 1em;
+    padding: 0px;
+}
+.categories{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
