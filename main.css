@@ -70,7 +70,10 @@ figure{
 .categories{
     display:flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center;  
+}
+#mymap{
+height: 70vh;
+    background-color: grey;
     
 }
